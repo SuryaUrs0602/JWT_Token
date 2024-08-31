@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JWT_Token\\JWT_Token\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\jwt_token_example1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\jwt_token_example1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|d:\\jwt_token\\jwt_token\\jwt_token_example1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB3721B-1F6C-41E3-AA79-804E5B975F13}|JWT_Token_Example1\\JWT_Token_Example1.csproj|solutionrelative:jwt_token_example1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWT_Token_Example1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T09:50:04.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JWT_Token_Example1",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\JWT_Token_Example1.csproj",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\JWT_Token_Example1.csproj",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\JWT_Token_Example1.csproj",
+              "RelativeToolTip": "JWT_Token_Example1\\JWT_Token_Example1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T09:49:58.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\appsettings.json",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\appsettings.json",
+              "RelativeToolTip": "JWT_Token_Example1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T12:35:44.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "JWT_Token_Example1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:44:05.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\Program.cs",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Program.cs",
+              "RelativeToolTip": "JWT_Token_Example1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:24:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\Models\\Users.cs",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Models\\Users.cs",
+              "RelativeToolTip": "JWT_Token_Example1\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:42:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "JWT_Token_Example1\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\JWT_Token\\JWT_Token\\JWT_Token_Example1\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "JWT_Token_Example1\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:50:07.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
